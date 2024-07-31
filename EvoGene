@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="G.E.N Enterprise">
+    <meta name="keywords" content="G.E.N Enterprise">
+    <meta name="author" content="EvoGene">
+    <title>G.E.N Enterprise</title>
+    <link rel="stylesheet" href="./css/style.css">
+    <link rel="icon" href="img/evogene.jpg">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div id="branding">
+                <h1><span class="highlight">G.E.N</span> Enterprise</h1>
+            </div>
+            <nav>
+                <ul>
+                    <li class="current">About Us</li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <section id="evogene">
+        <div class="container">
+            <p>
+                "G.E.N Enterprises (Gemilang Eksha Nusa Enterprises) Perusahaan rintisan (START-UP) dalam industri hiburan multimedia, ekonomi kreatif dan akulturasi teknologi yang akan menjadi pilar bisnis. Didirikan oleh beberapa orang (principal) untuk mengembangkan produk-produk bisnis dan merealisasikan sarana populerisasi budaya (pop culture) menggunakan konsep strategi transmedia, lintasmedia dan crossmedia sehingga menciptakan suatu mahakarya, figur product image sekaligus lisensi (BRAND) baru yang orisinil sebagai identitas branding bangsa di kancah international.
+            </head>
+        </body>
+    </html
